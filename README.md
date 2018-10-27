@@ -3,12 +3,11 @@
 
 ### Posible commands:
 1. *node liri concert-this <artist/band name here>* This will search the Bands in Town Artist Events.
-![image1](img1.png)
+![imagen1](/images/img1.png)
 
 
 1. *node liri spotify-this-song '<song name here>'* This will show information about the song in your terminal.
-![alt text](http://url/to/img2.png)    
+  
 1. *node liri movie-this '<movie name here>'* This will output information about the movie.
-![alt text](http://url/to/img3.png)
+
 1. *node liri do-what-it-says* LIRI will take the text inside of random.txt and then use it to call one of LIRI's commands.
-![alt text](http://url/to/img4.png)
