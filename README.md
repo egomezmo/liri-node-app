@@ -12,7 +12,10 @@
 ![imagen3](/images/img3.png)
 
 1. *node liri do-what-it-says* LIRI will take the text inside of random.txt and then use it to call one of LIRI's commands.
-I test all posible commands and it works, "concert this", "spotify-this-song" and "movie-this"
+**I test all posible commands and it works, "concert this", "spotify-this-song" and "movie-this"**
+#### "movie this" 
 ![imagen4a](/images/img4a.png)
+#### "spotyfy this"
 ![imagen4b](/images/img4b.png)
+#### "concert this"
 ![imagen4c](/images/img4c.png)
