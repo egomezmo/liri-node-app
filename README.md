@@ -1,8 +1,5 @@
-LIRI
-
-LIRI is a Language Interpretation and Recognition Interface
+### LIRI is a Language Interpretation and Recognition Interface
 LIRI will search Spotify for songs, Bands in Town for concerts, and OMDB for movies.
-
 
 Posible commands:
 node liri concert-this <artist/band name here>           
@@ -16,3 +13,5 @@ npm i node-spotify-api
 npm i omdb-client
 npm i moment
 
+
+![alt text](http://url/to/img.png)
