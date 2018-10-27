@@ -3,10 +3,8 @@
 
 ### Posible commands:
 1. *node liri concert-this <artist/band name here>* This will search the Bands in Town Artist Events.
-![alt text](http://url/to/img1.png)
+![image1](img1.png)
 
-![GitHub Logo](img1.png)
-Format: ![Alt Text](url)
 
 1. *node liri spotify-this-song '<song name here>'* This will show information about the song in your terminal.
 ![alt text](http://url/to/img2.png)    
